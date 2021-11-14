@@ -7,3 +7,5 @@ Python implementation of Viola-Jones algorithm.
 
 ## References
 Viola, P., & Jones, M. J. (2004). Robust Real-Time Face Detection. International Journal of Computer Vision, 57(2), 137–154.
+
+https://github.com/sunsided/viola-jones-adaboost.
